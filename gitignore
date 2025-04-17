@@ -1,0 +1,15 @@
+# Ignore backup and system files
+*.log
+*.tmp
+*.DS_Store
+__MACOSX/
+
+# Ignore WordPress core files
+wp-admin/
+wp-includes/
+
+# Ignore node and build stuff if ever used
+node_modules/
+dist/
+build/
+.env
