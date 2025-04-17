@@ -1,6 +1,6 @@
 # 📦 文章寫作好幫手（brand-article-helper）
 
-由 **老K＆BRAND 自媒體課程** 製作，這是一款輕量實用的 WordPress 外掛，幫助你在寫作時更有效率地維護內容，特別適合部落格經營者、自媒體創作者使用。
+由 **[老K＆BRAND 自媒體課程](https://leadingbrandsystem.com/)** 製作，這是一款輕量實用的 WordPress 外掛，幫助你在寫作時更有效率地維護內容，特別適合部落格經營者、自媒體創作者使用。
 
 ## ✨ 功能特色
 
@@ -21,5 +21,5 @@
 
 ## 🧠 作者資訊
 
-由 [老K](https://leadingmrk.com) & BRAND 自媒體課程開發  
+由 [老K＆BRAND 自媒體課程](https://leadingbrandsystem.com/) 開發  
 提供輕量實用的 WordPress 工具，協助創作者建立穩定內容資產。
